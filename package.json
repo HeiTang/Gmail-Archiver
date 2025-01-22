@@ -1,0 +1,16 @@
+{
+	"name": "gmail-archiver",
+	"version": "1.0.0",
+	"description": "Gmail Archiver for Google Apps Script, using TypeScript",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"deploy": "npx clasp login && npx clasp create --type standalone --title \"Gmail Archiver\" && npx clasp push",
+		"open": "npx clasp open"
+	},
+	"author": "HeiTang",
+	"license": "MIT",
+	"dependencies": {
+		"@types/google-apps-script": "^1.0.86"
+	}
+}
