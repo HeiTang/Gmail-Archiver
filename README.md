@@ -4,7 +4,7 @@
 	<p>
 		Gmail Archiver is a specialized Google Apps Script tool for exporting Gmail emails and attachments while organizing them into a clear folder structure. It supports converting email content into PDF, saving raw emails (EML), and handling attachments and inline images.
 	</p>
-	<em>“Your data, your rules. Gmail, the way it’s meant to be.”</em>
+	<em>“Your data, your rules. Archive Gmail the way you want.”</em>
 </div>
 
 ## Features
